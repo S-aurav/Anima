@@ -1,2 +1,2 @@
-# Aniplix v2.0
+# Lol Anime
 Still under development.
