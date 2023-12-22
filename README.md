@@ -1,2 +1,2 @@
 # waifu
-my waifu
+Lool
