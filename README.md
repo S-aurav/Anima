@@ -1,2 +1,2 @@
-# waifu
+# Anima
 Lool
